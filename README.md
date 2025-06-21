@@ -2,7 +2,16 @@
 
 This Power BI dashboard provides key insights into eCommerce sales performance, including sales amount, profit, quantity, category breakdown, customer insights, and more.
 
-![image alt](https://github.com/Rohitlakha/ecom-insights-dashboard/blob/86bcc4bb215ef1d18cbe8dd7d471aa236586e756/Ecommerce%20Sales%20Dashboard.png)
+![image alt](https://github.com/Rohitlakha/ecom-insights-dashboard/blob/6955edefdaf8bcee00bc3ed79ff441a73a3368c0/Dashboard-screenshot/DASHBOARD.png)
+
+![image alt](https://github.com/Rohitlakha/ecom-insights-dashboard/blob/af2f89a9f3bfcbb7f1d555f31dc98090e315c0ad/Dashboard-screenshot/QUATOR1.png)
+
+![image alt](https://github.com/Rohitlakha/ecom-insights-dashboard/blob/af2f89a9f3bfcbb7f1d555f31dc98090e315c0ad/Dashboard-screenshot/QUATOR2.png)
+
+![image alt](https://github.com/Rohitlakha/ecom-insights-dashboard/blob/af2f89a9f3bfcbb7f1d555f31dc98090e315c0ad/Dashboard-screenshot/QUATOR3.png)
+
+![image alt](https://github.com/Rohitlakha/ecom-insights-dashboard/blob/af2f89a9f3bfcbb7f1d555f31dc98090e315c0ad/Dashboard-screenshot/QUATOR4.png)
+
 
 ## 📊 Key Features
 
